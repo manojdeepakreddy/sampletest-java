@@ -20,8 +20,10 @@ public class SimpleServlet extends HttpServlet {
 	  int j=10000;
 	  int k=10000;
 	  int l=10000;
+	  int kl=10000;
+	  int ll=10000;
 	  
       resp.setContentType("text/plain");
-      resp.getWriter().write("Hello World! Maven Web Project Example.");
+      resp.getWriter().write("Hello World! Maven Web Project Example.....");
    }
 }
