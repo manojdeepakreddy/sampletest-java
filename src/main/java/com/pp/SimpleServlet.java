@@ -24,6 +24,6 @@ public class SimpleServlet extends HttpServlet {
 	  int ll=10000;
 	  
       resp.setContentType("text/plain");
-      resp.getWriter().write("Welcome to jenkins through deployer plugin");
+      resp.getWriter().write("Welcome to jenkins through deployer plugin ...");
    }
 }
