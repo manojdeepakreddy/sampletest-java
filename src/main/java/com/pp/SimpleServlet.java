@@ -24,6 +24,6 @@ public class SimpleServlet extends HttpServlet {
 	  int ll=10000;
 	  
       resp.setContentType("text/plain");
-      resp.getWriter().write("Hello World! Maven/Jenkins Web Project Example............Checking pollscm");
+      resp.getWriter().write("Hello World! Maven/Jenkins Web Project Example............Checking pollscm +++++++++++++++++");
    }
 }
