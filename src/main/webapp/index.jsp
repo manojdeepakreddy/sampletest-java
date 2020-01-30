@@ -1,7 +1,7 @@
 <html>
 <body>
 <h2>Hello World!..........</h2>
-<h2>Deploying to tomcat server</h2>
+<h2>Maven+TOMCAT+GIT</h2>
 
 
 </body>
