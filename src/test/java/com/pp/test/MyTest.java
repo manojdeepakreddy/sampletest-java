@@ -16,5 +16,9 @@ public class MyTest extends TestCase {
       double result = value1 + value2;
       assertTrue(result == 6);
    }
+   public void testAdd1(){
+      double result = value1 + value2;
+      assertTrue(result == 7);
+   }
    
 }
