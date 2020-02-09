@@ -28,6 +28,18 @@
             <scope>provided</scope>
         </dependency>
   </dependencies>
+<distributionManagement>
+  <repository>
+    <id>releases</id>
+    <name>releases</name>
+    <url>http://localhost:8081/repository/psd-releases/</url>
+  </repository>
+  <snapshotRepository>
+    <id>snapshots</id>
+    <name>snapshots</name>
+    <url>http://localhost:8081/repository/psd-snapshots/</url>
+  </snapshotRepository>
+</distributionManagement>
   <build>
     <finalName>psdapp</finalName>
     <plugins>
