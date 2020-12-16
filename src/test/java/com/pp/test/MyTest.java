@@ -20,6 +20,10 @@ public class MyTest extends TestCase {
       double result = value1 * value2;
       assertTrue(result == 9);
    }
+   public void testSub(){
+      double result = value1 - value2;
+      assertTrue(result == 1);
+   }
   
    
 }
