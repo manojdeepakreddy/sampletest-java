@@ -7,7 +7,6 @@
 <h2>jenkins and tomcat integration </h2>
 <h2>jenkins and tomcat integration using deploy to container plugin</h2>
 <h2>Testing webhook demo again && testing again</h2>
-<h2>Checking for ansible integration .......  </h2>
 <button>Click me</button>
 
 </body>
